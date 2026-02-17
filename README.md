@@ -4,24 +4,24 @@
 🔬 B.E. Electronics & Communications Engineering  — VTU, India  
 📄 IEEE Published Researcher — Deep Learning-based Iris Recognition (99.98% accuracy)
 
- What I Work On
-🤖 Autonomous Systems     ██████████████░░░░  Sensor Fusion | VIO | State Estimation
-🧠 Machine Learning       █████████████░░░░░  PyTorch | Deep Learning | Reinforcement Learning
-📡 IoT & Embedded         ████████████░░░░░░  Arduino | ARM | Node-RED | Blynk
-👁️ Computer Vision        ████████████░░░░░░  OpenCV | Object Detection | Image Processing
+ What I Work On : 
+ 🤖 Autonomous Systems     ██████████████░░░░  Sensor Fusion | VIO | State Estimation  
+ 🧠 Machine Learning       █████████████░░░░░  PyTorch | Deep Learning | Reinforcement Learning  
+ 📡 IoT & Embedded         ████████████░░░░░░  Arduino | ARM | Node-RED | Blynk  
+ 👁️ Computer Vision        ████████████░░░░░░  OpenCV | Object Detection | Image Processing
 
 🛠️ Tech Stack
 
-Languages
+Languages : 
 Python, Matlab, C/C++
 
-ML / AI
+ML / AI : 
 PyTorch
 TensorFlow
 OpenCV
 scikit-learn
 
-Tools 
+Tools : 
 Git
 Linux
 Jupyter
