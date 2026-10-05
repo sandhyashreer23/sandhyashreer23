@@ -18,28 +18,33 @@ M.Sc. student in AI Engineering of Autonomous Systems at Technische Hochschule I
 
 ---
 
-## Featured projects
+## Featured Projects
 
 | Project | What it does | Tech |
 |---|---|---|
-| 📚 [RAG Engineering Assistant](https://github.com/sandhyashreer23/rag-engineering-assistant) | Ask questions about engineering PDFs in natural language; retrieves relevant passages and answers from them | Python, LangChain, Gemini, FAISS, Streamlit |
-| 📄 [GenAI Engineering Document Analyzer](https://github.com/sandhyashreer23/genai-engineering-document-analyzer) | Upload PDF/DOCX engineering documents and get a summary, classification and extracted requirements via a Streamlit dashboard | Python, Streamlit, Gemini API, PyPDF |
-| 🔭 [ML-Aided Visual-Inertial Odometry](https://github.com/sandhyashreer23/ML-Aided-Visual-Inertial-Odometry) | Learned component added to camera + IMU fusion for 6-DoF motion estimation | Python, PyTorch |
-| 🧠 [CNN from Scratch: Learned vs. Gabor Filters](https://github.com/sandhyashreer23/cnn-image-classifier-scratch) | CIFAR-10 CNN with no pretrained backbone, comparing learned first-layer filters (59.8%) against frozen Gabor filters (43.8%) | Python, PyTorch/Keras* |
-| 🚗 [Lane Detection on KITTI](https://github.com/sandhyashreer23/lane-detection) | Classical ADAS lane detection pipeline (Canny, region masking, Hough) on the KITTI Road dataset | Python, OpenCV, NumPy |
+| 🚦 [AI-Based V2X Smart Traffic & Collision Alert System](https://github.com/sandhyashreer23/v2x-smart-traffic-system) | Simulates Vehicle-to-Everything (V2X) communication with collision detection, AI traffic prediction, emergency nalytics dashboard, and SQLite storage | Python, Streamlit, Scikit-Learn, Plotly, SQLite |
+| 📚 [RAG Engineering Assistant](https://github.com/sandhyashreer23/rag-engineering-assistant) | Ask questions about engineering PDFs inrelevant passages and answers from them | Python, LangChain, Gemini, FAISS, Streamlit |
+| 📄 [GenAI Engineering Document Analyzer](https://github.com/sandhyashreer23/genaid PDF/DOCX engineering documents and get a summary, classification and extracted requirements via a Streamlit dashboard | Python, Streamlit, Gemini API, PyPDF |
+| 🔭 [ML-Aided Visual-Inertial Odometry](https://github.com/sandhyashreer23/ML-Aided-Visual-Inertial-Odometry) | Learned component added to cameration | Python, PyTorch |
+| 🧠 [CNN from Scratch: Learned vs. Gabor Filters](https://github.com/sandhyashreer23/cnn-image-classifier-scratch) | CIFAR-10 CNN with no pretrained backbone, comparing learned first-layer filters against frozen Gabor filters | Python, PyTorch, Keras |
+| 🚗 [Lane Detection on KITTI](https://github.com/sandhyashreer23/lane-detection) | Classical ADAS gh transforms on the KITTI Road dataset | Python, OpenCV, NumPy |
 
-## Tech stack
+
+## Tech Stack
 
 **Languages:** Python · C/C++ · MATLAB
 
-**ML & GenAI:** PyTorch · TensorFlow · Keras · scikit-learn · LangChain · FAISS · Gemini API
+**ML &**enAI:** PyTorch · TensorFlow · Keras · Scikit-Learn · LangChain · FAISS · Gemini API
 
-**Vision & autonomy:** OpenCV · Sensor fusion · State estimation · Visual-inertial odometry · LiDAR 3D detection · Reinforcement learning
+**Vision** Autonomy:** OpenCV · Sensor Fusion · State Estimation · Visual-Inertial Odometry · LiDAR 3D Detection · Reinforcement Learning · Intelligent Transportation Systems (ITS)
+
+**Data & Analytics:** Pandas · Plotly · SQLite
+
+**Web Applications:** Streamlit
 
 **Embedded & IoT:** Arduino · ARM · Node-RED · Blynk
 
-**Tools:** Git · Linux · Jupyter · Streamlit
-
+**Tools:** Git · GitHub · Linux · Jupyter · VS Code · Streamlit
 
  📫 Connect With Me
 
